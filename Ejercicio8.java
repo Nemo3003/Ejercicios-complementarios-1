@@ -12,7 +12,7 @@ public class Ejercicio8 {
         sc.nextLine();
         System.out.println("¿Cual es su direccion?: ");
         String direccion = sc.nextLine();
-        System.out.println("¿Cual es tu ciudad?: ");
+        System.out.println("¿Cual es su ciudad?: ");
         String ciudad = sc.nextLine();
 
         System.out.println(ciudad + " - " + direccion + " - " + edad + " - " + nombre);
